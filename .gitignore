@@ -4,3 +4,4 @@
 *.log
 # Using regular expressions
 *.log.[0-9]
+images/
