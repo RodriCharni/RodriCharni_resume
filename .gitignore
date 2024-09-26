@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+*.gz
+*.log
+# Using regular expressions
+*.log.[0-9]
